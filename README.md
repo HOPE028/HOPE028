@@ -8,3 +8,6 @@
 HOPE028/HOPE028 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+![Pasha Khoshkbari's GitHub stats](https://github-readme-stats.vercel.app/api?username=HOPE028&show_icons=true&theme=radical)
