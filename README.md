@@ -10,4 +10,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-![Pasha Khoshkbari's GitHub stats](https://github-readme-stats.vercel.app/api?username=HOPE028&show_icons=true&theme=radical)
+![Pasha Khoshkbari's GitHub stats](https://github-readme-stats.vercel.app/api?username=HOPE028&show_icons=true&theme=radical&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HOPE028)](https://github.com/anuraghazra/github-readme-stats)
