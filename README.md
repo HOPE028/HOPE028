@@ -10,6 +10,6 @@ Hi there! My name is Pasha and I am a full stack developer. That is of course in
 
 ---
 
-**[Portfolio/Website](https://www.pasha-khoshkebari.com/) • [LinkedIn](https://www.pasha-khoshkebari.com/)**
+### **[Portfolio/Website](https://www.pasha-khoshkebari.com/) • [LinkedIn](https://www.pasha-khoshkebari.com/)**
 
 
